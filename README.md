@@ -91,11 +91,13 @@ String password = "your_mysql_password";
 HospitalManagementSystem/
 ├── src/
 │   └── HospitalManagementSystem.java
+│   └── Doctor.java
+│   └── Patient.java
 ├── lib/
 │   └── mysql-connector-java-x.x.xx.jar
 ├── README.md
 ├── LICENSE
-└── database_setup.sql
+└── Documents
 
 
  ```
